@@ -143,7 +143,7 @@ This visualization helps compare annual profitability and highlights periods of 
 <h2>📈 Dashboard Snapshot</h2>
 
 <p align="center">
-    <img src="Dashboard_image.png" alt="Apple Financial Dashboard" width="100%">
+    <img src="dashboard.png" alt="Apple Financial Dashboard" width="100%">
 </p>
 <hr>
 
